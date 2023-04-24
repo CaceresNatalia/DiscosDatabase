@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscosDatabase", "DiscosDatabase\DiscosDatabase.csproj", "{38E46BFE-20AA-4832-A512-11BBF1369091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{60CA611D-6EA8-4794-B9C0-8B22A4531FF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{32A033A6-8E51-426F-A645-E5AAD63EB24A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E46BFE-20AA-4832-A512-11BBF1369091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E46BFE-20AA-4832-A512-11BBF1369091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E46BFE-20AA-4832-A512-11BBF1369091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E46BFE-20AA-4832-A512-11BBF1369091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60CA611D-6EA8-4794-B9C0-8B22A4531FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CA611D-6EA8-4794-B9C0-8B22A4531FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CA611D-6EA8-4794-B9C0-8B22A4531FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CA611D-6EA8-4794-B9C0-8B22A4531FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A033A6-8E51-426F-A645-E5AAD63EB24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A033A6-8E51-426F-A645-E5AAD63EB24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A033A6-8E51-426F-A645-E5AAD63EB24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A033A6-8E51-426F-A645-E5AAD63EB24A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {423CD324-BA35-4A7B-8990-FAAAE665C05D}
+	EndGlobalSection
+EndGlobal
